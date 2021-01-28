@@ -1,4 +1,8 @@
-package starategyPatttern;
+package strategyPatttern;
+
+import strategyPatttern.context.Context;
+import strategyPatttern.strategy.StrategyImpl2;
+import strategyPatttern.strategy.StrategyImpl3;
 
 public class Client {
   public static void main (String[] args) {

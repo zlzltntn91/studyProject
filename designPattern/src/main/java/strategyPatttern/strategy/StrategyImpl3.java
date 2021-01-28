@@ -1,4 +1,4 @@
-package starategyPatttern;
+package strategyPatttern.strategy;
 
 public class StrategyImpl3 implements Strategy {
   @Override

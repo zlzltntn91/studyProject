@@ -1,4 +1,4 @@
-package starategyPatttern;
+package strategyPatttern.strategy;
 
 public interface Strategy {
   void strategyMethod ();

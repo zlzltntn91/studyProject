@@ -1,4 +1,6 @@
-package starategyPatttern;
+package strategyPatttern.context;
+
+import strategyPatttern.strategy.Strategy;
 
 public class Context {
 
