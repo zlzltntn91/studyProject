@@ -1,11 +1,10 @@
-
-<%@ page contentType="text/html;charset=UTF-8" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java"%>
 <html>
 <head>
     <title>CI-CD</title>
 </head>
 <body>
 <h1>Deploy by Jenkins</h1>
-${message}
+    Message is ${message}
 </body>
 </html>
