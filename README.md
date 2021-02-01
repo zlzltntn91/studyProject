@@ -1,5 +1,6 @@
 # StudyProject
-
+## GIT 21/02/01 ~ 21/02/28
+- [Do it! 지옥에서 온 문서 관리자 깃&깃허브](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791163031222)
 
 ## CI/CD 21/01/20 ~ 21/02/28
 - [자바 프로젝트 필수 유틸리티](https://kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162240700&orderClick=JAj)
