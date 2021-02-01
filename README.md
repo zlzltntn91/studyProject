@@ -25,3 +25,11 @@
 - Node.js 교과서
 - Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문
 - 파이썬 증권 데이터 분석
+
+
+<util:properties id="egovProperties" location="classpath:/egovframework/props/egov.properties#{systemProperties['spring.profiles.active']}" />
+
+====================================
+
+@Value("#{egovProperties['msg.fail.code']}")
+String [] success;
