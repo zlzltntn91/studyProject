@@ -9,21 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="Jenkins 개요 및 설치, 실행 방법">
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/단계 설명 및 첫 잡 생성.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/정적분석.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ci-cd/web/WEB-INF/jsp/jenkins.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ci_cd_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ci_cd_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/java/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/java/cicd/IndexController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/활용.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/web/index.jsp" afterDir="false" />
+    <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pmd-ruleset.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +69,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/tobySpring/src/test/java/restTemplate" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ci-cd/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -96,11 +83,11 @@
       <recent name="observerPattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\studyProject" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
       <recent name="D:\studyProject\ci-cd\web\WEB-INF\jsp" />
       <recent name="D:\studyProject\target\classes" />
       <recent name="D:\studyProject\src\main\resources" />
-      <recent name="D:\studyProject\ci-cd\src\main\resources\md\sonarqube" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\studyProject\target\classes" />
@@ -518,7 +505,7 @@
       <updated>1611707654833</updated>
       <workItem from="1611707657641" duration="39686000" />
       <workItem from="1611878663261" duration="15412000" />
-      <workItem from="1611908600228" duration="11478000" />
+      <workItem from="1611908600228" duration="12113000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -639,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612152245649</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="init">
+      <created>1612152385010</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612152385010</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
