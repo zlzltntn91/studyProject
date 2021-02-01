@@ -62,12 +62,39 @@
             <artifactId>slf4j-api</artifactId>
             <version>1.7.30</version>
         </dependency>
-<!--        StringUtils-->
+        <!--        StringUtils-->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.11</version>
         </dependency>
     </dependencies>
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-jxr-plugin</artifactId>
+                <version>2.3</version>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-pmd-plugin</artifactId>
+                <version>3.14.0</version>
+                <configuration>
+                    <rulesets>
+                        <!-- A rule set, that comes bundled with PMD -->
+                        <ruleset>
+                            file:src/main/resources/pmd-ruleset.xml
+                        </ruleset>
+                        <!-- Custom local file system rule set -->
+                        <!--                        <ruleset>d:\rulesets\strings.xml</ruleset>-->
+                        <!-- Custom remote rule set accessed via a URL -->
+                        <!--                        <ruleset>http://localhost/design.xml</ruleset>-->
+                    </rulesets>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>

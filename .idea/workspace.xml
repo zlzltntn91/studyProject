@@ -9,8 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pmd-ruleset.xml" afterDir="false" />
+    <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="add pmd-ruleset.xml">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dummy/Patt_Matt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dummy/Patt_Matt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/pmd-ruleset.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/pmd-ruleset.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +73,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/tobySpring/src/test/java/restTemplate" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/docuchainapiver3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -83,18 +87,18 @@
       <recent name="observerPattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\studyProject\src\main\resources" />
       <recent name="D:\studyProject" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
       <recent name="D:\studyProject\ci-cd\web\WEB-INF\jsp" />
       <recent name="D:\studyProject\target\classes" />
-      <recent name="D:\studyProject\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studyProject\ci-cd\src\main\resources" />
+      <recent name="D:\studyProject" />
+      <recent name="D:\studyProject\src\main\resources" />
       <recent name="D:\studyProject\target\classes" />
       <recent name="D:\studyProject\tobySpring\web\WEB-INF\jsp" />
-      <recent name="D:\studyProject\ci-cd\src\main\resources\md\" />
-      <recent name="D:\studyProject\ci-cd\src\main\resources\md\jenkins" />
-      <recent name="D:\studyProject\designPattern\src\main\resources\" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -195,6 +199,8 @@
       <command value="mvn install" />
       <command value="mvn clean:clean" />
       <command value="mvn compile" />
+      <command value="mvn pmd:pmd" />
+      <command value="mvn pmd:check" />
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.CI/CD 8091">
@@ -505,7 +511,7 @@
       <updated>1611707654833</updated>
       <workItem from="1611707657641" duration="39686000" />
       <workItem from="1611878663261" duration="15412000" />
-      <workItem from="1611908600228" duration="12113000" />
+      <workItem from="1611908600228" duration="15380000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -633,7 +639,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612152385010</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="add pmd-ruleset.xml">
+      <created>1612153031656</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612153031656</updated>
+    </task>
+    <task id="LOCAL-00020" summary="add pmd-ruleset.xml">
+      <created>1612153119272</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612153119272</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,7 +687,8 @@
     <MESSAGE value="Root Project init" />
     <MESSAGE value="DesignPattern" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="add pmd-ruleset.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pmd-ruleset.xml" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
