@@ -10,11 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="add pmd-ruleset.xml">
-      <change afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/개요 및 설치.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/md/리눅스 명령어.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -511,7 +509,7 @@
       <updated>1611707654833</updated>
       <workItem from="1611707657641" duration="39686000" />
       <workItem from="1611878663261" duration="15412000" />
-      <workItem from="1611908600228" duration="19092000" />
+      <workItem from="1611908600228" duration="23592000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
