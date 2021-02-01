@@ -8,8 +8,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="designPattern" />
-        <module name="tobySpring" />
         <module name="ci-cd" />
+        <module name="basic-git" />
+        <module name="tobySpring" />
       </profile>
     </annotationProcessing>
   </component>
