@@ -1,0 +1,36 @@
+GET http://localhost:8090/home
+
+###
+
+GET http://211.232.75.144:8090/jenkins
+
+###
+
+GET http://localhost:8090/home
+
+<> 2021-01-28T175041.404.html
+
+###
+
+GET http://localhost/home
+
+<> 2021-01-28T175030.403.html
+
+###
+
+GET http://211.232.75.144:8090/jenkins
+
+<> 2021-01-28T140821.404.html
+
+###
+
+GET http://211.232.75.144/jenkins
+
+<> 2021-01-28T140807.403.html
+
+###
+
+GET http://jenkins
+
+###
+
