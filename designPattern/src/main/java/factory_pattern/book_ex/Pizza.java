@@ -28,5 +28,6 @@ public abstract class Pizza {
     log.info("{}, {}, {}, {}", this.getName(), this.getCost(), this.getSize(), this.getTime());
     log.info("{}이/가 완성되었습니다.", this.getName());
 
+
   }
 }
