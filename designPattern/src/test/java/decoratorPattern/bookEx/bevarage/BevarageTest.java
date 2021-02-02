@@ -1,6 +1,6 @@
-package decoratorPattern.bookEx.bevarage;
+package decorator_pattern.bookEx.bevarage;
 
-import decoratorPattern.bookEx.decorator.Whip;
+import decorator_pattern.bookEx.decorator.Whip;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 

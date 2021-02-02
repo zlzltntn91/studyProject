@@ -10,9 +10,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="add pmd-ruleset.xml">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/KindOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/NyBullgogiPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/NyCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/NyPizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/PizzaStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/my_ex/AbstractApiCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/my_ex/vo/ApiRequestVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/my_ex/vo/ApiResponseVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/factoryPattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/important.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/test/java/factory_pattern/book_ex/PizzaStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/test/java/refactoring/AbstractApiCallTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/ci-cd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/ci-cd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/bevarage/Bevarage.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/bevarage/Bevarage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/bevarage/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/bevarage/DarkRoast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/bevarage/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/bevarage/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/decorator/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/decorator/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/decorator/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/component/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/component/Building.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/component/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/component/Factory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/component/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/component/Unit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/decorator/AddOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/decorator/AddOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/decorator/FactoryAddOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/decorator/FactoryAddOn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/NotifyVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/NotifyVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/BlueTeamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/BlueTeamObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/GreenTeamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/GreenTeamObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/RedTeamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/RedTeamObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/subject/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/subject/ConcreteSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/subject/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/context/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/context/Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/Strategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/StrategyImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/StrategyImpl1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/StrategyImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/StrategyImpl2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/StrategyImpl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/StrategyImpl3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/test/java/decoratorPattern/bookEx/bevarage/BevarageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/test/java/decoratorPattern/bookEx/bevarage/BevarageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/test/java/observerPattern/ConcreteSubjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/test/java/observerPattern/ConcreteSubjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tobySpring/tobySpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tobySpring/tobySpring.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +68,9 @@
         <option value="Jsp File" />
         <option value="Interface" />
         <option value="JUnit3 Test Class" />
+        <option value="HTTP Request" />
+        <option value="JUnit4 Test Class" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +86,11 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -70,16 +119,17 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/tobySpring/src/test/java/restTemplate" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/docuchainapiver5" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.43121693" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="factory_pattern.book_ex" />
       <recent name="decoratorPattern.component" />
       <recent name="toby.service.impl" />
       <recent name="observerPattern" />
@@ -103,12 +153,14 @@
       <recent name="junit.framework.TestCase" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="toby" />
       <recent name="strategyPatttern.context" />
       <recent name="strategyPatttern.strategy" />
       <recent name="restTemplate" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="factory_pattern.book_ex" />
       <recent name="decoratorPattern.bookEx.bevarage" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -195,13 +247,14 @@
       <command value="mvn clean:clean install:install" />
       <command value="mvn clean:clean package" />
       <command value="mvn install" />
-      <command value="mvn clean:clean" />
-      <command value="mvn compile" />
       <command value="mvn pmd:pmd" />
       <command value="mvn pmd:check" />
+      <command value="mvn clean:clean" />
+      <command value="mvn com" />
+      <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.CI/CD 8091">
+  <component name="RunManager" selected="JUnit.PizzaStoreTest">
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -226,21 +279,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BevarageTest.checkEnumByGall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="decoratorPattern.bookEx.bevarage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="decoratorPattern.bookEx.bevarage" />
-      <option name="MAIN_CLASS_NAME" value="decoratorPattern.bookEx.bevarage.BevarageTest" />
-      <option name="METHOD_NAME" value="checkEnumByGall" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="D:/studyProject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="BevarageTest.decoratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
@@ -274,17 +330,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoubleTest.ceilTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="studyProject" />
+    <configuration name="PizzaStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="factory_pattern.book_ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="math" />
-      <option name="MAIN_CLASS_NAME" value="math.DoubleTest" />
-      <option name="METHOD_NAME" value="ceilTest" />
+      <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
+      <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaStoreTest.orderNullPizza" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory_pattern.book_ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
+      <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
+      <option name="METHOD_NAME" value="orderNullPizza" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -474,19 +545,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
-      <item itemvalue="JUnit.BevarageTest.checkEnumByGall" />
-      <item itemvalue="JUnit.DoubleTest.ceilTest" />
+      <item itemvalue="Gradle.D:/studyProject" />
       <item itemvalue="JUnit.BevarageTest.decoratorTest" />
       <item itemvalue="JUnit.ConcreteSubjectTest.addObserver" />
+      <item itemvalue="JUnit.PizzaStoreTest" />
       <item itemvalue="Tomcat Server.Toby 8090" />
       <item itemvalue="Tomcat Server.CI/CD 8091" />
+      <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PizzaStoreTest" />
+        <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
+        <item itemvalue="Gradle.D:/studyProject" />
         <item itemvalue="JUnit.ConcreteSubjectTest.addObserver" />
         <item itemvalue="JUnit.BevarageTest.decoratorTest" />
-        <item itemvalue="JUnit.DoubleTest.ceilTest" />
-        <item itemvalue="JUnit.BevarageTest.checkEnumByGall" />
       </list>
     </recent_temporary>
   </component>
@@ -509,7 +582,9 @@
       <updated>1611707654833</updated>
       <workItem from="1611707657641" duration="39686000" />
       <workItem from="1611878663261" duration="15412000" />
-      <workItem from="1611908600228" duration="23592000" />
+      <workItem from="1611908600228" duration="26372000" />
+      <workItem from="1612224615954" duration="9913000" />
+      <workItem from="1612238154055" duration="2575000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>

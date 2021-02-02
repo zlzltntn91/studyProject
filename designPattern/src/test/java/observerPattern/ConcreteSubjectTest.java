@@ -1,10 +1,10 @@
-package observerPattern;
+package observer_pattern;
 
 import lombok.extern.slf4j.Slf4j;
-import observerPattern.observer.BlueTeamObserver;
-import observerPattern.observer.GreenTeamObserver;
-import observerPattern.observer.RedTeamObserver;
-import observerPattern.subject.ConcreteSubject;
+import observer_pattern.observer.BlueTeamObserver;
+import observer_pattern.observer.GreenTeamObserver;
+import observer_pattern.observer.RedTeamObserver;
+import observer_pattern.subject.ConcreteSubject;
 import org.junit.Before;
 import org.junit.Test;
 
