@@ -10,50 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="add pmd-ruleset.xml">
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/KindOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/NyBullgogiPizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/NyCheesePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/NyPizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/PizzaStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/my_ex/AbstractApiCall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/my_ex/vo/ApiRequestVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/my_ex/vo/ApiResponseVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/factoryPattern.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/important.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/test/java/factory_pattern/book_ex/PizzaStoreTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/test/java/refactoring/AbstractApiCallTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/ci-cd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/ci-cd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/bevarage/Bevarage.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/bevarage/Bevarage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/bevarage/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/bevarage/DarkRoast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/bevarage/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/bevarage/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/decorator/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/bookEx/decorator/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/bookEx/decorator/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/component/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/component/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/component/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/component/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/component/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/component/Unit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/decorator/AddOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/decorator/AddOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/decoratorPattern/myEx/decorator/FactoryAddOn.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/decorator_pattern/myEx/decorator/FactoryAddOn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/NotifyVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/NotifyVo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/BlueTeamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/BlueTeamObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/GreenTeamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/GreenTeamObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/observer/RedTeamObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/observer/RedTeamObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/subject/ConcreteSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/subject/ConcreteSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/observerPattern/subject/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/observer_pattern/subject/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/context/Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/context/Context.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/Strategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/Strategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/StrategyImpl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/StrategyImpl1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/StrategyImpl2.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/StrategyImpl2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategyPatttern/strategy/StrategyImpl3.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/strategy/StrategyImpl3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/test/java/decoratorPattern/bookEx/bevarage/BevarageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/test/java/decoratorPattern/bookEx/bevarage/BevarageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/test/java/observerPattern/ConcreteSubjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/test/java/observerPattern/ConcreteSubjectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tobySpring/tobySpring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tobySpring/tobySpring.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +82,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.43121693" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -584,7 +541,7 @@
       <workItem from="1611878663261" duration="15412000" />
       <workItem from="1611908600228" duration="26372000" />
       <workItem from="1612224615954" duration="9913000" />
-      <workItem from="1612238154055" duration="2575000" />
+      <workItem from="1612238154055" duration="3411000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
