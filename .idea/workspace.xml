@@ -10,8 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/로컬배포.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/factory_pattern/book_ex/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/정적분석.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/정적분석.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -542,7 +543,7 @@
       <workItem from="1611878663261" duration="15412000" />
       <workItem from="1611908600228" duration="26372000" />
       <workItem from="1612224615954" duration="9913000" />
-      <workItem from="1612238154055" duration="4249000" />
+      <workItem from="1612238154055" duration="8002000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -712,7 +713,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612241694076</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="add pmd-ruleset.xml">
+      <created>1612242575437</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1612242575437</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
