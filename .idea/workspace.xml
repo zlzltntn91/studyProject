@@ -9,14 +9,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/my_ex/ThisSingletonIsEarlyLoading_ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/my_ex/ThisSingletonIsLazyInit_NotThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/my_ex/ThisSingletonIsLazyInit_ThreadSafe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/thread/ThreadTestEarlyLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/thread/ThreadTestLazyInit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/test/java/singleton_pattern/my_ex/MySingletonNotThreadSafeTest.java" afterDir="false" />
+    <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="너무 어렵다">
+      <change afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/3.깃과브랜치.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/templatemethod_pattern/Bevarage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/개요 및 설치.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/1.개요 및 설치.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -533,7 +531,7 @@
       <workItem from="1612224615954" duration="9913000" />
       <workItem from="1612238154055" duration="10635000" />
       <workItem from="1612314477651" duration="6654000" />
-      <workItem from="1612397167064" duration="1008000" />
+      <workItem from="1612397167064" duration="12831000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -717,7 +715,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612310767605</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="너무 어렵다">
+      <created>1612398571276</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1612398571276</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,7 +758,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="add pmd-ruleset.xml" />
     <MESSAGE value="ci-cd" />
-    <option name="LAST_COMMIT_MESSAGE" value="ci-cd" />
+    <MESSAGE value="너무 어렵다" />
+    <option name="LAST_COMMIT_MESSAGE" value="너무 어렵다" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
