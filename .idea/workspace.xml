@@ -10,9 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/로컬배포.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/my_ex/ThisSingletonIsEarlyLoading_ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/my_ex/ThisSingletonIsLazyInit_NotThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/my_ex/ThisSingletonIsLazyInit_ThreadSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/thread/ThreadTestEarlyLoading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/singleton_pattern/thread/ThreadTestLazyInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/test/java/singleton_pattern/my_ex/MySingletonNotThreadSafeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/정적분석.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/정적분석.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +32,8 @@
         <option value="Interface" />
         <option value="JUnit3 Test Class" />
         <option value="HTTP Request" />
-        <option value="JUnit4 Test Class" />
         <option value="Enum" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -119,6 +123,7 @@
       <recent name="restTemplate" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="singleton_pattern.my_ex" />
       <recent name="factory_pattern.book_ex" />
       <recent name="decoratorPattern.bookEx.bevarage" />
     </key>
@@ -213,7 +218,7 @@
       <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PizzaStoreTest">
+  <component name="RunManager" selected="Application.MySingletonNotThreadSafeTest">
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -227,63 +232,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="MySingletonNotThreadSafeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton_pattern.my_ex.MySingletonNotThreadSafeTest" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton_pattern.my_ex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/studyProject" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" value="" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="BevarageTest.decoratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MySingletonNotThreadSafeTest.getInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="decoratorPattern.bookEx.bevarage.*" />
+          <option name="PATTERN" value="singleton_pattern.my_ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="decoratorPattern.bookEx.bevarage" />
-      <option name="MAIN_CLASS_NAME" value="decoratorPattern.bookEx.bevarage.BevarageTest" />
-      <option name="METHOD_NAME" value="decoratorTest" />
+      <option name="PACKAGE_NAME" value="singleton_pattern.my_ex" />
+      <option name="MAIN_CLASS_NAME" value="singleton_pattern.my_ex.MySingletonNotThreadSafeTest" />
+      <option name="METHOD_NAME" value="getInstance" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcreteSubjectTest.addObserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MySingletonNotThreadSafeTest.threadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designPattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="observerPattern.*" />
+          <option name="PATTERN" value="singleton_pattern.my_ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="observerPattern" />
-      <option name="MAIN_CLASS_NAME" value="observerPattern.ConcreteSubjectTest" />
-      <option name="METHOD_NAME" value="addObserver" />
+      <option name="PACKAGE_NAME" value="singleton_pattern.my_ex" />
+      <option name="MAIN_CLASS_NAME" value="singleton_pattern.my_ex.MySingletonNotThreadSafeTest" />
+      <option name="METHOD_NAME" value="threadTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -504,21 +492,21 @@
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
-      <item itemvalue="Gradle.D:/studyProject" />
-      <item itemvalue="JUnit.BevarageTest.decoratorTest" />
-      <item itemvalue="JUnit.ConcreteSubjectTest.addObserver" />
+      <item itemvalue="Application.MySingletonNotThreadSafeTest" />
       <item itemvalue="JUnit.PizzaStoreTest" />
+      <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
+      <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
+      <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
       <item itemvalue="Tomcat Server.Toby 8090" />
       <item itemvalue="Tomcat Server.CI/CD 8091" />
-      <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MySingletonNotThreadSafeTest" />
+        <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
+        <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
         <item itemvalue="JUnit.PizzaStoreTest" />
         <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
-        <item itemvalue="Gradle.D:/studyProject" />
-        <item itemvalue="JUnit.ConcreteSubjectTest.addObserver" />
-        <item itemvalue="JUnit.BevarageTest.decoratorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -543,7 +531,9 @@
       <workItem from="1611878663261" duration="15412000" />
       <workItem from="1611908600228" duration="26372000" />
       <workItem from="1612224615954" duration="9913000" />
-      <workItem from="1612238154055" duration="8002000" />
+      <workItem from="1612238154055" duration="10635000" />
+      <workItem from="1612314477651" duration="6654000" />
+      <workItem from="1612397167064" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -720,7 +710,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612242575437</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="ci-cd">
+      <created>1612310767605</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1612310767605</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -755,7 +752,8 @@
     <MESSAGE value="DesignPattern" />
     <MESSAGE value="init" />
     <MESSAGE value="add pmd-ruleset.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="add pmd-ruleset.xml" />
+    <MESSAGE value="ci-cd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ci-cd" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
