@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ci-cd:war exploded">
-    <output-path>$PROJECT_DIR$/ci-cd/target/ci_cd</output-path>
+    <output-path>$PROJECT_DIR$/ci-cd/target/cicd</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -12,7 +12,6 @@
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
           <element id="module-output" name="ci-cd" />
-          <element id="module-output" name="studyProject" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.18.RELEASE" />
@@ -35,7 +34,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/ci_cd/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/cicd/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ci-cd/web/Web" />
     </root>
