@@ -10,11 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="너무 어렵다">
-      <change afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/3.깃과브랜치.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/templatemethod_pattern/Bevarage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/개요 및 설치.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/1.개요 및 설치.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -531,7 +528,7 @@
       <workItem from="1612224615954" duration="9913000" />
       <workItem from="1612238154055" duration="10635000" />
       <workItem from="1612314477651" duration="6654000" />
-      <workItem from="1612397167064" duration="12831000" />
+      <workItem from="1612397167064" duration="14712000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
