@@ -36,9 +36,6 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/Hello CI/CD/META-INF/MANIFEST.MF" />
       </element>
-      <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/cicd/META-INF/MANIFEST.MF" />
-      </element>
       <element id="javaee-facet-resources" facet="ci-cd/web/Web" />
     </root>
   </artifact>
