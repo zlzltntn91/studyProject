@@ -33,6 +33,9 @@
           <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.11" />
         </element>
       </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/cicd/META-INF/MANIFEST.MF" />
+      </element>
       <element id="javaee-facet-resources" facet="ci-cd/web/Web" />
     </root>
   </artifact>
