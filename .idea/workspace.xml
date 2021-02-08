@@ -13,8 +13,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/basic/러버덕.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/basic/목제오리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/basic/오리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/basic/청둥오리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/java/basic/흰뺨검둥오리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/designPattern.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/세미나자료/러버덕추가.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/세미나자료/오리.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/세미나자료/오리날다.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPattern/src/main/resources/세미나자료/오리종류.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/ci_cd_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ci_cd_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/ci-cd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tobySpring/tobySpring.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,10 +98,10 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ci-cd/webapp" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.43121693" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -103,11 +118,11 @@
       <recent name="D:\studyProject\target\classes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/designPattern/src/main/resources/세미나자료" />
+      <recent name="$PROJECT_DIR$/designPattern/src/main/resources" />
+      <recent name="$PROJECT_DIR$/designPattern/src/main/resources/etc" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
       <recent name="D:\studyProject" />
-      <recent name="D:\studyProject\src\main\resources" />
-      <recent name="D:\studyProject\target\classes" />
-      <recent name="D:\studyProject\tobySpring\web\WEB-INF\jsp" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -206,17 +221,30 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
-      <command value="mvn clean:clean install:install" />
       <command value="mvn clean:clean package" />
       <command value="mvn install" />
       <command value="mvn pmd:pmd" />
       <command value="mvn pmd:check" />
-      <command value="mvn clean:clean" />
       <command value="mvn com" />
       <command value="mvn compile" />
+      <command value="mvn clean:clean" />
+      <command value="mvn clean:clean install:install" />
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.CI/CD 8091">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy_patttern.Client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy_patttern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -239,17 +267,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,22 +314,6 @@
       <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
       <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PizzaStoreTest.orderNullPizza" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory_pattern.book_ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
-      <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
-      <option name="METHOD_NAME" value="orderNullPizza" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -502,8 +503,8 @@
     <list>
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.MySingletonNotThreadSafeTest" />
+      <item itemvalue="Application.Client (1)" />
       <item itemvalue="JUnit.PizzaStoreTest" />
-      <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
       <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
       <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
       <item itemvalue="Tomcat Server.Toby 8090" />
@@ -511,11 +512,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
         <item itemvalue="Application.MySingletonNotThreadSafeTest" />
         <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
         <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
         <item itemvalue="JUnit.PizzaStoreTest" />
-        <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +528,7 @@
     <option name="allowAutoConfigurationMode" value="true" />
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\dgtazm9513\AppData\Roaming\Subversion</configuration>
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -543,6 +544,10 @@
       <workItem from="1612238154055" duration="10635000" />
       <workItem from="1612314477651" duration="6654000" />
       <workItem from="1612397167064" duration="21969000" />
+      <workItem from="1612575174945" duration="1354000" />
+      <workItem from="1612576545536" duration="17000" />
+      <workItem from="1612576588675" duration="6022000" />
+      <workItem from="1612667572859" duration="517000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -821,9 +826,9 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/studyProject$RestTest_getTest.ic" NAME="RestTest.getTest Coverage Results" MODIFIED="1611735004784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyProject$BevarageTest_decoratorTest.ic" NAME="BevarageTest.decoratorTest Coverage Results" MODIFIED="1611908922712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>decoratorPattern.bookEx.bevarage.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/studyProject$RestTest_getTest.ic" NAME="RestTest.getTest Coverage Results" MODIFIED="1611735004784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
