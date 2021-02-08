@@ -528,7 +528,7 @@
       <workItem from="1612238154055" duration="10635000" />
       <workItem from="1612314477651" duration="6654000" />
       <workItem from="1612397167064" duration="23020000" />
-      <workItem from="1612744493683" duration="12165000" />
+      <workItem from="1612744493683" duration="12509000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -775,7 +775,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612756894594</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="젠킨스 완료">
+      <created>1612770846925</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612770846925</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
