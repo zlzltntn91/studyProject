@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="ci-cd:war exploded">
-    <output-path>$PROJECT_DIR$/ci-cd/target/cicd</output-path>
+    <output-path>$PROJECT_DIR$/ci-cd/target/Hello CI/CD</output-path>
     <properties id="maven-jee-properties">
       <options>
         <exploded>true</exploded>
@@ -34,7 +34,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/cicd/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/ci-cd/target/Hello CI/CD/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="ci-cd/web/Web" />
     </root>

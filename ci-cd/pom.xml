@@ -8,7 +8,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <name>Hello CI</name>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>ci-cd</artifactId>
     <packaging>war</packaging>
@@ -36,14 +35,11 @@
             <artifactId>spring-webmvc</artifactId>
             <version>${org.springframework-version}</version>
         </dependency>
-
-        <!-- https://mvnrepository.com/artifact/commons-logging/commons-logging -->
         <dependency>
             <groupId>commons-logging</groupId>
             <artifactId>commons-logging</artifactId>
             <version>1.2</version>
         </dependency>
-
         <dependency>
             <groupId>jstl</groupId>
             <artifactId>jstl</artifactId>
@@ -54,10 +50,10 @@
             <artifactId>javax.servlet.jsp.jstl-api</artifactId>
             <version>1.2.2</version>
         </dependency>
-
     </dependencies>
+
     <build>
-        <finalName>cicd</finalName>
+        <finalName>Hello CI/CD</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
@@ -76,4 +72,5 @@
             </plugin>
         </plugins>
     </build>
+
 </project>
