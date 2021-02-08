@@ -10,18 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/5.원격환경배포.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/6.빌드파이프라인.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/7.깃허브 훅.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/restart.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ci_cd_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ci_cd_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/개요 및 설치 방법.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/1.개요 및 설치 방법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/단계 설명 및 첫 잡 생성.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/2.단계 설명 및 첫 잡 생성.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/로컬배포.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/4.로컬배포.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/정적분석.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/3.정적분석.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +77,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/docuchainapiver3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -539,7 +528,7 @@
       <workItem from="1612238154055" duration="10635000" />
       <workItem from="1612314477651" duration="6654000" />
       <workItem from="1612397167064" duration="23020000" />
-      <workItem from="1612744493683" duration="9715000" />
+      <workItem from="1612744493683" duration="12165000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -779,7 +768,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612745931805</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="젠킨스 완료">
+      <created>1612756894594</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1612756894594</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -816,7 +812,8 @@
     <MESSAGE value="add pmd-ruleset.xml" />
     <MESSAGE value="ci-cd" />
     <MESSAGE value="너무 어렵다" />
-    <option name="LAST_COMMIT_MESSAGE" value="너무 어렵다" />
+    <MESSAGE value="젠킨스 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="젠킨스 완료" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
