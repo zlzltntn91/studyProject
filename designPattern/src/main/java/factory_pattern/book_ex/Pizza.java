@@ -27,6 +27,5 @@ public abstract class Pizza {
   void complete () {
     log.info("{}, {}, {}, {}", this.getName(), this.getCost(), this.getSize(), this.getTime());
     log.info("{}이/가 완성되었습니다.", this.getName());
-    log.info("메일 안바뀌냐왜");
   }
 }
