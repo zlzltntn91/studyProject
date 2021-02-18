@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="ci-cd:war exploded" />
+      <artifact name="junit-spring:war exploded" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
@@ -10,8 +13,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/md/리눅스.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/datastructure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastructure/src/test/java/comparable/ComparableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/junit-spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/kr/co/soo/junit_spring/controller/JunitTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uml/src/main/resources/md/object.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tobySpring/src/main/java/toby/restTemplate/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tobySpring/src/main/java/toby/restTemplate/Rest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +43,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="spring-beans.schema" />
         <option value="Tag Library Descriptor" />
         <option value="Jsp File" />
         <option value="Interface" />
@@ -29,6 +50,7 @@
         <option value="HTTP Request" />
         <option value="Enum" />
         <option value="JUnit4 Test Class" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
@@ -77,7 +99,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/git/docuchainapiver3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/datastructure/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -92,18 +114,18 @@
       <recent name="observerPattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\studyProject\datastructure\src\main\resources" />
+      <recent name="D:\studyProject\junit-spring\src\main\resources" />
       <recent name="D:\studyProject\src\main\resources" />
       <recent name="D:\studyProject" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
-      <recent name="D:\studyProject\ci-cd\web\WEB-INF\jsp" />
-      <recent name="D:\studyProject\target\classes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studyProject\junit-spring\src\main\web" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
       <recent name="D:\studyProject" />
       <recent name="D:\studyProject\src\main\resources" />
       <recent name="D:\studyProject\target\classes" />
-      <recent name="D:\studyProject\tobySpring\web\WEB-INF\jsp" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -128,6 +150,31 @@
   <component name="RestClientSettings">
     <option name="REQUEST_HISTORY">
       <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="211.232.75.144" />
+                <option name="name" value="JSESSIONID.c744b43a" />
+                <option name="path" value="/" />
+                <option name="value" value="node01ncmv8zmcy682h935l6q7pg2w2.node0" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="-1" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="JSESSIONID.c744b43a" />
+                <option name="path" value="/" />
+                <option name="value" value="node01mpunt736vzu81vwr3wmt1g4rr18.node0" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/test" />
+          <option name="urlPath" value="" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
         <RestClientRequest>
           <option name="biscuits">
             <list>
@@ -212,7 +259,21 @@
       <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.CI/CD 8091">
+  <component name="RunDashboard">
+    <option name="excludedTypes">
+      <set>
+        <option value="HttpClient.HttpRequestRunConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Argorithm">
+    <configuration name="Argorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Argorithm" />
+      <module name="datastructure" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -226,7 +287,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MySingletonNotThreadSafeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MySingletonNotThreadSafeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singleton_pattern.my_ex.MySingletonNotThreadSafeTest" />
       <module name="designPattern" />
       <extension name="coverage">
@@ -235,6 +296,32 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generated-requests#11" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="11" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Argorithm.basic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Argorithm" />
+      <option name="METHOD_NAME" value="basic" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -282,22 +369,6 @@
       <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
       <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PizzaStoreTest.orderNullPizza" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory_pattern.book_ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
-      <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
-      <option name="METHOD_NAME" value="orderNullPizza" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -484,23 +555,115 @@
         </option>
       </method>
     </configuration>
+    <configuration name="Tomcat 8.5.59" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.59" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Duser.language=en -Duser.region=us" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="junit-spring:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="25fbc094-4a53-420d-bbf7-d4a8bbfbed23" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53089" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="junit-spring:war exploded" />
+        </option>
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.MySingletonNotThreadSafeTest" />
+      <item itemvalue="HTTP Request.generated-requests#11" />
       <item itemvalue="JUnit.PizzaStoreTest" />
-      <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
       <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
       <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
       <item itemvalue="Tomcat Server.Toby 8090" />
       <item itemvalue="Tomcat Server.CI/CD 8091" />
+      <item itemvalue="JUnit.Argorithm.basic" />
+      <item itemvalue="Application.Argorithm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MySingletonNotThreadSafeTest" />
+        <item itemvalue="Application.Argorithm" />
+        <item itemvalue="JUnit.Argorithm.basic" />
         <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
         <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
         <item itemvalue="JUnit.PizzaStoreTest" />
-        <item itemvalue="JUnit.PizzaStoreTest.orderNullPizza" />
       </list>
     </recent_temporary>
   </component>
@@ -532,6 +695,8 @@
       <workItem from="1612833713314" duration="1190000" />
       <workItem from="1612916757035" duration="40000" />
       <workItem from="1612924589942" duration="805000" />
+      <workItem from="1613437186384" duration="12022000" />
+      <workItem from="1613551129293" duration="2494000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -806,7 +971,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612830451025</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="젠킨스 완료">
+      <created>1613437227826</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1613437227827</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -847,13 +1019,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="젠킨스 완료" />
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="JUnit">
-        <watch expression="bevarage.getSize().getRise()" language="JAVA" />
-        <watch expression="bevarage.getSize()" language="JAVA" />
-        <watch expression="bevarage.getDescription()" language="JAVA" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

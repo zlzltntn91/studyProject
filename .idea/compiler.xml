@@ -7,10 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="designPattern" />
-        <module name="ci-cd" />
         <module name="basic-git" />
         <module name="tobySpring" />
+        <module name="uml" />
+        <module name="designPattern" />
+        <module name="datastructure" />
+        <module name="ci-cd" />
+        <module name="junit-spring" />
       </profile>
     </annotationProcessing>
   </component>

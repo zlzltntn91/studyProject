@@ -12,5 +12,4 @@ public class Rest {
     String result = restTemplate.getForObject(url, String.class);
     log.debug(result);
   }
-
 }
