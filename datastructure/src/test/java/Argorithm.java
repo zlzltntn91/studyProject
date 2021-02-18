@@ -17,7 +17,18 @@ public class Argorithm {
       numbers[i] = scanner.nextInt();
     }
     // 방법 1
-    System.out.println(Arrays.stream(numbers).max());
+//    System.out.println(Arrays.stream(numbers).max());
+
+    // 방법 2
+    int max = numbers[0];
+    if(max < numbers[1]){
+      max = numbers[1];
+    }
+    if(max < numbers[2]){
+      max = numbers[2];
+    }
+    System.out.println(max);
+
 
   }
 

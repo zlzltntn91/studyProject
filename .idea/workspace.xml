@@ -13,27 +13,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/datastructure/datastructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datastructure/src/test/java/comparable/ComparableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/junit-spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/kr/co/soo/junit_spring/controller/JunitTestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uml/src/main/resources/md/object.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/basic.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/springTest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/web/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tobySpring/src/main/java/toby/restTemplate/Rest.java" beforeDir="false" afterPath="$PROJECT_DIR$/tobySpring/src/main/java/toby/restTemplate/Rest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/7.깃허브 훅.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/7.깃허브 훅.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/test/java/decoratorPattern/bookEx/bevarage/BevarageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/test/java/decorator_Pattern/bookEx/bevarage/BevarageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/junit-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/junit-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +97,7 @@
     <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/datastructure/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.43121693" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -121,11 +117,11 @@
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studyProject\junit-spring\src\main\java\junit\" />
+      <recent name="D:\studyProject\junit-spring\src\main\java\md\img\" />
       <recent name="D:\studyProject\junit-spring\src\main\web" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
       <recent name="D:\studyProject" />
-      <recent name="D:\studyProject\src\main\resources" />
-      <recent name="D:\studyProject\target\classes" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -266,14 +262,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Argorithm">
-    <configuration name="Argorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Argorithm" />
-      <module name="datastructure" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.BasicTest2.test">
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -316,59 +305,81 @@
     <configuration name="generated-requests#11" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="11" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="Argorithm.basic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="datastructure" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Argorithm" />
-      <option name="METHOD_NAME" value="basic" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MySingletonNotThreadSafeTest.getInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
+    <configuration name="BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singleton_pattern.my_ex.*" />
+          <option name="PATTERN" value="basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="singleton_pattern.my_ex" />
-      <option name="MAIN_CLASS_NAME" value="singleton_pattern.my_ex.MySingletonNotThreadSafeTest" />
-      <option name="METHOD_NAME" value="getInstance" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MySingletonNotThreadSafeTest.threadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="singleton_pattern.my_ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="singleton_pattern.my_ex" />
-      <option name="MAIN_CLASS_NAME" value="singleton_pattern.my_ex.MySingletonNotThreadSafeTest" />
-      <option name="METHOD_NAME" value="threadTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PizzaStoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="factory_pattern.book_ex.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="factory_pattern.book_ex" />
-      <option name="MAIN_CLASS_NAME" value="factory_pattern.book_ex.PizzaStoreTest" />
+      <option name="PACKAGE_NAME" value="basic" />
+      <option name="MAIN_CLASS_NAME" value="basic.BasicTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic" />
+      <option name="MAIN_CLASS_NAME" value="basic.BasicTest2" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest.ctestMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic" />
+      <option name="MAIN_CLASS_NAME" value="basic.BasicTest" />
+      <option name="METHOD_NAME" value="ctestMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic" />
+      <option name="MAIN_CLASS_NAME" value="basic.BasicTest" />
+      <option name="METHOD_NAME" value="testMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BevarageTest.checkEnumByVenti (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="decorator_Pattern.bookEx.bevarage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="decorator_Pattern.bookEx.bevarage" />
+      <option name="MAIN_CLASS_NAME" value="decorator_Pattern.bookEx.bevarage.BevarageTest" />
+      <option name="METHOD_NAME" value="checkEnumByVenti" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -639,31 +650,29 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="junit-spring:war exploded" />
-        </option>
+        <option name="BuildArtifacts" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.MySingletonNotThreadSafeTest" />
       <item itemvalue="HTTP Request.generated-requests#11" />
-      <item itemvalue="JUnit.PizzaStoreTest" />
-      <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
-      <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
       <item itemvalue="Tomcat Server.Toby 8090" />
       <item itemvalue="Tomcat Server.CI/CD 8091" />
-      <item itemvalue="JUnit.Argorithm.basic" />
-      <item itemvalue="Application.Argorithm" />
+      <item itemvalue="JUnit.BasicTest" />
+      <item itemvalue="JUnit.BasicTest.testMethod" />
+      <item itemvalue="JUnit.BevarageTest.checkEnumByVenti (1)" />
+      <item itemvalue="JUnit.BasicTest.ctestMethod" />
+      <item itemvalue="JUnit.BasicTest2.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Argorithm" />
-        <item itemvalue="JUnit.Argorithm.basic" />
-        <item itemvalue="JUnit.MySingletonNotThreadSafeTest.threadTest" />
-        <item itemvalue="JUnit.MySingletonNotThreadSafeTest.getInstance" />
-        <item itemvalue="JUnit.PizzaStoreTest" />
+        <item itemvalue="JUnit.BasicTest2.test" />
+        <item itemvalue="JUnit.BasicTest" />
+        <item itemvalue="JUnit.BasicTest.ctestMethod" />
+        <item itemvalue="JUnit.BevarageTest.checkEnumByVenti (1)" />
+        <item itemvalue="JUnit.BasicTest.testMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -696,7 +705,7 @@
       <workItem from="1612916757035" duration="40000" />
       <workItem from="1612924589942" duration="805000" />
       <workItem from="1613437186384" duration="12022000" />
-      <workItem from="1613551129293" duration="2494000" />
+      <workItem from="1613551129293" duration="13101000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -978,7 +987,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613437227827</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Algorithm">
+      <created>1613606676567</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1613606676567</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Algorithm">
+      <created>1613606724330</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613606724330</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1016,7 +1039,8 @@
     <MESSAGE value="ci-cd" />
     <MESSAGE value="너무 어렵다" />
     <MESSAGE value="젠킨스 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="젠킨스 완료" />
+    <MESSAGE value="Algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1037,6 +1061,9 @@
     <SUITE FILE_PATH="coverage/studyProject$RestTest_getTest.ic" NAME="RestTest.getTest Coverage Results" MODIFIED="1611735004784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyProject$BevarageTest_decoratorTest.ic" NAME="BevarageTest.decoratorTest Coverage Results" MODIFIED="1611908922712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>decoratorPattern.bookEx.bevarage.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/studyProject$BasicTest.ic" NAME="BasicTest Coverage Results" MODIFIED="1613619229788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>basic.*</FILTER>
     </SUITE>
   </component>
 </project>
