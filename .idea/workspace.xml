@@ -13,23 +13,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/basic.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/springTest.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/web/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/how2SetUp.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/kr/co/soo/junit_spring/bean/HelloBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/md/img/junitBasic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/JunitSpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/UserVoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/sub/SubJunitSpringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/resources/dispatcher-servlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/7.깃허브 훅.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/7.깃허브 훅.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/test/java/decoratorPattern/bookEx/bevarage/BevarageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/test/java/decorator_Pattern/bookEx/bevarage/BevarageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/junit-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/junit-spring.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/1.개요 및 설치 방법.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/1.개요 및 설치 방법.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/4.로컬배포.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/4.로컬배포.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/restart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/restart.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/resources/classDiagram/observerPattern.uml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/resources/classDiagram/observerPattern.uml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/src/main/resources/md/designPattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/designPattern.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/md/basic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/springTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/md/springTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest2.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,9 +100,9 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/datastructure/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/junit-spring/src/test/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
     <property name="project.structure.side.proportion" value="0.43121693" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
@@ -110,18 +115,18 @@
       <recent name="observerPattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\studyProject\datastructure\src\main\resources" />
+      <recent name="D:\studyProject\junit-spring\src\test\resources" />
       <recent name="D:\studyProject\junit-spring\src\main\resources" />
+      <recent name="D:\studyProject\datastructure\src\main\resources" />
       <recent name="D:\studyProject\src\main\resources" />
       <recent name="D:\studyProject" />
-      <recent name="D:\studyProject\ci-cd\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studyProject\ci-cd\src\main\resources\md\jenkins" />
       <recent name="D:\studyProject\junit-spring\src\main\java\junit\" />
       <recent name="D:\studyProject\junit-spring\src\main\java\md\img\" />
       <recent name="D:\studyProject\junit-spring\src\main\web" />
       <recent name="D:\studyProject\ci-cd\src\main\resources" />
-      <recent name="D:\studyProject" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -262,7 +267,20 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BasicTest2.test">
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy_patttern.Client" />
+      <module name="designPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy_patttern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -289,15 +307,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -305,7 +321,7 @@
     <configuration name="generated-requests#11" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="11" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JunitSpringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
@@ -314,13 +330,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.BasicTest" />
+      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicTest2.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JunitSpringTest.getBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
@@ -329,14 +345,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.BasicTest2" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
+      <option name="METHOD_NAME" value="getBean" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicTest.ctestMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JunitSpringTest.getContextInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
@@ -345,14 +361,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.BasicTest" />
-      <option name="METHOD_NAME" value="ctestMethod" />
+      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
+      <option name="METHOD_NAME" value="getContextInfo" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasicTest.testMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JunitSpringTest.getEnvironment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
@@ -361,24 +377,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.BasicTest" />
-      <option name="METHOD_NAME" value="testMethod" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BevarageTest.checkEnumByVenti (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="decorator_Pattern.bookEx.bevarage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="decorator_Pattern.bookEx.bevarage" />
-      <option name="MAIN_CLASS_NAME" value="decorator_Pattern.bookEx.bevarage.BevarageTest" />
-      <option name="METHOD_NAME" value="checkEnumByVenti" />
+      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
+      <option name="METHOD_NAME" value="getEnvironment" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -660,19 +660,19 @@
       <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
       <item itemvalue="Tomcat Server.Toby 8090" />
       <item itemvalue="Tomcat Server.CI/CD 8091" />
-      <item itemvalue="JUnit.BasicTest" />
-      <item itemvalue="JUnit.BasicTest.testMethod" />
-      <item itemvalue="JUnit.BevarageTest.checkEnumByVenti (1)" />
-      <item itemvalue="JUnit.BasicTest.ctestMethod" />
-      <item itemvalue="JUnit.BasicTest2.test" />
+      <item itemvalue="JUnit.JunitSpringTest.getBean" />
+      <item itemvalue="JUnit.JunitSpringTest.getContextInfo" />
+      <item itemvalue="JUnit.JunitSpringTest.getEnvironment" />
+      <item itemvalue="JUnit.JunitSpringTest" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BasicTest2.test" />
-        <item itemvalue="JUnit.BasicTest" />
-        <item itemvalue="JUnit.BasicTest.ctestMethod" />
-        <item itemvalue="JUnit.BevarageTest.checkEnumByVenti (1)" />
-        <item itemvalue="JUnit.BasicTest.testMethod" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="JUnit.JunitSpringTest.getEnvironment" />
+        <item itemvalue="JUnit.JunitSpringTest" />
+        <item itemvalue="JUnit.JunitSpringTest.getContextInfo" />
+        <item itemvalue="JUnit.JunitSpringTest.getBean" />
       </list>
     </recent_temporary>
   </component>
@@ -705,7 +705,8 @@
       <workItem from="1612916757035" duration="40000" />
       <workItem from="1612924589942" duration="805000" />
       <workItem from="1613437186384" duration="12022000" />
-      <workItem from="1613551129293" duration="13101000" />
+      <workItem from="1613551129293" duration="28281000" />
+      <workItem from="1613953572472" duration="21092000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -1001,7 +1002,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613606724330</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Junit Init">
+      <created>1613622539454</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1613622539454</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1040,7 +1048,8 @@
     <MESSAGE value="너무 어렵다" />
     <MESSAGE value="젠킨스 완료" />
     <MESSAGE value="Algorithm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algorithm" />
+    <MESSAGE value="Junit Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Junit Init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

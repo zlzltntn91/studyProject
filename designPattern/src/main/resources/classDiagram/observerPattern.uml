@@ -2,41 +2,11 @@
 <Diagram>
   <ID>JAVA</ID>
   <OriginalElement>observerPattern</OriginalElement>
-  <nodes>
-    <node x="0.0" y="147.0">observerPattern.subject.ConcreteSubject</node>
-    <node x="322.0" y="459.0">observerPattern.observer.GreenTeamObserver</node>
-    <node x="158.0" y="459.0">observerPattern.observer.BlueTeamObserver</node>
-    <node x="165.0" y="356.0">observerPattern.observer.Observer</node>
-    <node x="0.0" y="0.0">observerPattern.subject.Subject</node>
-    <node x="0.0" y="459.0">observerPattern.observer.RedTeamObserver</node>
-  </nodes>
+  <nodes />
   <notes />
-  <edges>
-    <edge source="observerPattern.observer.GreenTeamObserver" target="observerPattern.observer.Observer">
-      <point x="0.0" y="-38.0" />
-      <point x="397.0" y="434.0" />
-      <point x="273.33333333333337" y="434.0" />
-      <point x="43.33333333333337" y="26.5" />
-    </edge>
-    <edge source="observerPattern.subject.ConcreteSubject" target="observerPattern.subject.Subject">
-      <point x="0.0" y="-82.0" />
-      <point x="0.0" y="48.5" />
-    </edge>
-    <edge source="observerPattern.observer.RedTeamObserver" target="observerPattern.observer.Observer">
-      <point x="0.0" y="-38.0" />
-      <point x="69.0" y="434.0" />
-      <point x="186.66666666666666" y="434.0" />
-      <point x="-43.33333333333334" y="26.5" />
-    </edge>
-    <edge source="observerPattern.observer.BlueTeamObserver" target="observerPattern.observer.Observer">
-      <point x="0.0" y="-38.0" />
-      <point x="0.0" y="26.5" />
-    </edge>
-  </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="236.0" y="267.5" />
-  <SelectedNodes>
-    <node>observerPattern.subject.ConcreteSubject</node>
-  </SelectedNodes>
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="731.5" y="281.0" />
+  <SelectedNodes />
   <Categories>
     <Category>Fields</Category>
     <Category>Methods</Category>
