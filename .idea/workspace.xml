@@ -13,28 +13,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/how2SetUp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/kr/co/soo/junit_spring/bean/HelloBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/md/img/junitBasic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/JunitSpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/UserVoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/sub/SubJunitSpringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/resources/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/resources/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/caculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/curriculum.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/hamcrest/hamcrest.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/unitTest/why.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/hamcrest/Hamcrest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitNamingConvension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/enhanced/TestOnlyOneCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/1.개요 및 설치 방법.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/1.개요 및 설치 방법.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/4.로컬배포.md" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/4.로컬배포.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/restart.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ci-cd/src/main/resources/md/jenkins/restart.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/java/strategy_patttern/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/resources/classDiagram/observerPattern.uml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/resources/classDiagram/observerPattern.uml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designPattern/src/main/resources/md/designPattern.md" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/src/main/resources/md/designPattern.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/designPattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/designPattern/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/junit-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/md/basic.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/md/springTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/md/springTest.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/md/basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/junit/junit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/md/img/junitBasic.png" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/junit/img/junitBasic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/md/springTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/springtest/springTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/BasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/JunitSpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/springtest/CJunitSpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/UserVoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/UserVoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/sub/SubJunitSpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/springtest/sub/SubJunitSpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/resources/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/resources/dispatcher-servlet.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +47,9 @@
         <option value="JUnit3 Test Class" />
         <option value="HTTP Request" />
         <option value="Enum" />
-        <option value="JUnit4 Test Class" />
         <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -100,7 +97,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/designPattern/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/junit-spring/src/test/resources" />
+    <property name="last_opened_file_path" value="$USER_HOME$/git/docuchainapiver3" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15625" />
@@ -122,11 +119,11 @@
       <recent name="D:\studyProject" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\studyProject\junit-spring\src\main\resources\spring-test" />
+      <recent name="D:\studyProject\junit-spring\src\main\resources\junit" />
       <recent name="D:\studyProject\ci-cd\src\main\resources\md\jenkins" />
       <recent name="D:\studyProject\junit-spring\src\main\java\junit\" />
       <recent name="D:\studyProject\junit-spring\src\main\java\md\img\" />
-      <recent name="D:\studyProject\junit-spring\src\main\web" />
-      <recent name="D:\studyProject\ci-cd\src\main\resources" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -140,6 +137,8 @@
       <recent name="restTemplate" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="junit.caculator" />
+      <recent name="junit" />
       <recent name="singleton_pattern.my_ex" />
       <recent name="factory_pattern.book_ex" />
       <recent name="decoratorPattern.bookEx.bevarage" />
@@ -267,20 +266,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Client (1)">
-    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="strategy_patttern.Client" />
-      <module name="designPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="strategy_patttern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.UserVoTest.userListTest">
     <configuration name="Client" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="strategyPatttern.Client" />
       <module name="designPattern" />
@@ -321,64 +307,80 @@
     <configuration name="generated-requests#11" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="11" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="JunitSpringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Hamcrest.collectionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="basic.hamcrest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
+      <option name="PACKAGE_NAME" value="basic.hamcrest" />
+      <option name="MAIN_CLASS_NAME" value="basic.hamcrest.Hamcrest" />
+      <option name="METHOD_NAME" value="collectionTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hamcrest.objectsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.hamcrest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic.hamcrest" />
+      <option name="MAIN_CLASS_NAME" value="basic.hamcrest.Hamcrest" />
+      <option name="METHOD_NAME" value="objectsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hamcrest.textTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.hamcrest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic.hamcrest" />
+      <option name="MAIN_CLASS_NAME" value="basic.hamcrest.Hamcrest" />
+      <option name="METHOD_NAME" value="textTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserVoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-spring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic.junit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="basic.junit" />
+      <option name="MAIN_CLASS_NAME" value="basic.junit.UserVoTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitSpringTest.getBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UserVoTest.userListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-spring" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basic.*" />
+          <option name="PATTERN" value="basic.junit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
-      <option name="METHOD_NAME" value="getBean" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JunitSpringTest.getContextInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
-      <option name="METHOD_NAME" value="getContextInfo" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JunitSpringTest.getEnvironment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="basic" />
-      <option name="MAIN_CLASS_NAME" value="basic.JunitSpringTest" />
-      <option name="METHOD_NAME" value="getEnvironment" />
+      <option name="PACKAGE_NAME" value="basic.junit" />
+      <option name="MAIN_CLASS_NAME" value="basic.junit.UserVoTest" />
+      <option name="METHOD_NAME" value="userListTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -660,19 +662,19 @@
       <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
       <item itemvalue="Tomcat Server.Toby 8090" />
       <item itemvalue="Tomcat Server.CI/CD 8091" />
-      <item itemvalue="JUnit.JunitSpringTest.getBean" />
-      <item itemvalue="JUnit.JunitSpringTest.getContextInfo" />
-      <item itemvalue="JUnit.JunitSpringTest.getEnvironment" />
-      <item itemvalue="JUnit.JunitSpringTest" />
-      <item itemvalue="Application.Client (1)" />
+      <item itemvalue="JUnit.BUserVoTest" />
+      <item itemvalue="JUnit.BZHamcrest.objectsTest" />
+      <item itemvalue="JUnit.BZHamcrest.textTest" />
+      <item itemvalue="JUnit.BZHamcrest.collectionTest" />
+      <item itemvalue="JUnit.UserVoTest.userListTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client (1)" />
-        <item itemvalue="JUnit.JunitSpringTest.getEnvironment" />
-        <item itemvalue="JUnit.JunitSpringTest" />
-        <item itemvalue="JUnit.JunitSpringTest.getContextInfo" />
-        <item itemvalue="JUnit.JunitSpringTest.getBean" />
+        <item itemvalue="JUnit.UserVoTest.userListTest" />
+        <item itemvalue="JUnit.BUserVoTest" />
+        <item itemvalue="JUnit.BZHamcrest.collectionTest" />
+        <item itemvalue="JUnit.BZHamcrest.textTest" />
+        <item itemvalue="JUnit.BZHamcrest.objectsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -706,7 +708,9 @@
       <workItem from="1612924589942" duration="805000" />
       <workItem from="1613437186384" duration="12022000" />
       <workItem from="1613551129293" duration="28281000" />
-      <workItem from="1613953572472" duration="21092000" />
+      <workItem from="1613953572472" duration="23429000" />
+      <workItem from="1614054621166" duration="25000" />
+      <workItem from="1614067855840" duration="27048000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -1009,7 +1013,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613622539454</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Junit Init">
+      <created>1614045139510</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1614045139510</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
