@@ -3,7 +3,10 @@ package basic.junit;
 import junit.User;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Before;
+import org.junit.FixMethodOrder;
+import org.junit.Ignore;
 import org.junit.Test;
+import org.junit.runners.MethodSorters;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -16,9 +19,10 @@ import static org.hamcrest.MatcherAssert.assertThat;
  * 3. 실패하는 테스트 찾기
  */
 @Slf4j
+@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class UserVoTest {
 
-  User user;
+  User user = new User();
 
   @Before
   public void setUp () {
@@ -28,27 +32,32 @@ public class UserVoTest {
     user.setEmail("kimes@digitalzone.co.kr");
   }
 
+
   // 1
   @Test
-  public void setNameTest_expectedChoi () {
+  public void AsetNameTest_expectedChoi () {
     user.setName("최은수");
     assertThat(user.getName(), is("최은수"));
+    log.info("AsetNameTest_expectedChoi : {} ", user.getName());
   }
 
   // 2
-  @Test(expected = AssertionError.class)
-  public void getUserNameTest_expectedAssertionException () {
-    assertThat(user.getName(), is("이은수"));
+  @Test
+  public void BgetUserNameTest_expectedAssertionException () {
+    log.info("BgetUserNameTest_expectedAssertionException : {}", user.getName());
+    assertThat(user.getName(), is("최은수"));
   }
 
   // 3
   @Test
+  @Ignore
   public void getUserName_expectedChoi_Test () {
     assertThat(user.getName(), is("최은수"));
   }
 
   // 4
   @Test
+  @Ignore
   public void userListTest (){
     User user2 = new User();
     user2.setName("홍길동");
@@ -62,6 +71,7 @@ public class UserVoTest {
 
   // 테스트 하나당 하나의 어설션만 수행할 것
   @Test
+  @Ignore
   public void threeAssertionTest () {
     assertThat(user.getName(), is("김은수"));
     assertThat(user.getId(), is("choi"));

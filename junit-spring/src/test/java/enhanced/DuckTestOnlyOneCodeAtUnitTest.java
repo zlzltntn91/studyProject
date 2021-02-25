@@ -1,13 +1,13 @@
 package enhanced;
 
+import junit.Duck;
 import lombok.SneakyThrows;
 import org.junit.Test;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
-import static org.hamcrest.CoreMatchers.equalTo;
-import static org.hamcrest.CoreMatchers.is;
+import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 // 4. Duck 클래스를 한번에 한가지 기능만 테스트 하도록 만들기
@@ -18,28 +18,38 @@ import static org.hamcrest.MatcherAssert.assertThat;
 //
 // 5. private 접근 제한자 변수, 메서드 테스트 하는 방법
 public class DuckTestOnlyOneCodeAtUnitTest {
+  
+  @Test(expected = IllegalArgumentException.class)
+  public void constructorTest_firstParameterIsNull(){
+    Duck duck = new Duck(null, "청둥오리");
+    assertThat(duck, is(notNullValue()));
+  }
 
+  @Test(expected = IllegalArgumentException.class)
+  public void emptyStringTest(){
+    Duck duck = new Duck("", "청둥오리");
+    assertThat(duck, is(notNullValue()));
+  }
 
+  @Test
+  public void sayMyNameTest() {
+    Duck duck = new Duck("black", "hi");
+    assertThat(duck.sayMyName(), is(equalTo("hi")));
+  }
+
+  @Test(expected = AssertionError.class)
+  public void sayMyNameFailTest() {
+    Duck duck = new Duck("black", "hi");
+    assertThat(duck.sayMyName(), is(equalTo("")));
+  }
+
+  @Test(expected = IllegalArgumentException.class)
+  public void colorTypeTest(){
+    Duck duck = new Duck("11", "test");
+  }
+  
 }
 
-class Duck {
-
-  private final String color;
-  private final String name;
-
-  Duck (String color, String name) {
-    this.color = color;
-    this.name = name;
-  }
-
-  String sayMyName() {
-    return name;
-  }
-
-  String sayMyColor() {
-    return color;
-  }
-}
 
 
 

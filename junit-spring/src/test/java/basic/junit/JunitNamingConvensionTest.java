@@ -8,30 +8,29 @@ import org.junit.Test;
  */
 @Slf4j
 // 1
-class JunitNamingConvension {
+public class JunitNamingConvensionTest {
 
   // 2
   @Test
-  void test1(){
+  public void test1(){
     log.debug("im default access modifier");
   }
 
   // 3
   @Test
-  public String test2(){
+  public void test2(){
     log.debug("return type is String");
-    return "";
   }
 
   // 4
   @Test
-  public void test3(String name){
-    log.debug("test3 method with Parameter {}", name);
+  public void test3(){
+    log.debug("test3 method with Parameter {}");
   }
 
   // 5
   @Test
-  public static void test4(){
+  public void test4(){
     log.debug("im static method");
   }
 

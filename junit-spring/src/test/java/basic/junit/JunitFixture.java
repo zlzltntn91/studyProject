@@ -14,7 +14,7 @@ public class JunitFixture {
   public static void beforeClass () {
     log.info("beforeClass");
   }
-  
+
   @AfterClass
   public static void afterClass () {
     log.info("afterClass");
