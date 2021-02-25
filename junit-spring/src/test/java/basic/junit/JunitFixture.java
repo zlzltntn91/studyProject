@@ -2,6 +2,7 @@ package basic.junit;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.*;
+import org.junit.runners.MethodSorters;
 
 /**
  *  1. 실행순서 추측해보기
@@ -31,17 +32,17 @@ public class JunitFixture {
 
   @Test
   public void aTestMethod () {
-    log.info("김");
+    log.info("무");
   }
 
   @Test
   public void bTestMethod () {
-    log.info("은");
+    log.info("야");
   }
 
   @Test
   public void cTestMethod () {
-    log.info("수");
+    log.info("호");
   }
 
 }

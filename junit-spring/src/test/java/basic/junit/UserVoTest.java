@@ -30,7 +30,7 @@ public class UserVoTest {
 
   // 1
   @Test
-  public void setNameTest_expected최은수 () {
+  public void setNameTest_expectedChoi () {
     user.setName("최은수");
     assertThat(user.getName(), is("최은수"));
   }
@@ -43,7 +43,7 @@ public class UserVoTest {
 
   // 3
   @Test
-  public void getUserName_expected최은수_Test () {
+  public void getUserName_expectedChoi_Test () {
     assertThat(user.getName(), is("최은수"));
   }
 
@@ -59,12 +59,6 @@ public class UserVoTest {
 
     assertThat(userList, is(hasItems(user, user2)));
   }
-
-
-
-
-
-
 
   // 테스트 하나당 하나의 어설션만 수행할 것
   @Test

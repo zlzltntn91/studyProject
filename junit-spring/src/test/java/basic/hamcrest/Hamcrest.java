@@ -13,6 +13,7 @@ import static org.hamcrest.Matchers.equalToIgnoringCase;
 import static org.hamcrest.Matchers.equalToIgnoringWhiteSpace;
 import static org.hamcrest.beans.HasProperty.hasProperty;
 
+
 @Slf4j
 public class Hamcrest {
 
