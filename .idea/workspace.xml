@@ -13,14 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/enhanced/DuckTestOnlyOneCodeAtUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/curriculum.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/curriculum.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/hamcrest/hamcrest.md" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/main/resources/hamcrest/hamcrest.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/hamcrest/Hamcrest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/hamcrest/Hamcrest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitFixture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/UserVoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/UserVoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/enhanced/TestOnlyOneCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -602,13 +595,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
-      <item itemvalue="Tomcat Server.Toby 8090" />
-      <item itemvalue="Tomcat Server.CI/CD 8091" />
       <item itemvalue="JUnit.UserVoTest.getUserNameTest_expectedAssertionException" />
       <item itemvalue="JUnit.UserVoTest.getUserName_expected최은수_Test" />
       <item itemvalue="JUnit.JunitFixture" />
       <item itemvalue="JUnit.JunitFixture.bTestMethod" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.59" />
+      <item itemvalue="Tomcat Server.Toby 8090" />
+      <item itemvalue="Tomcat Server.CI/CD 8091" />
     </list>
     <recent_temporary>
       <list>
@@ -1030,6 +1023,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/studyProject$TestOnlyOneCode.ic" NAME="TestOnlyOneCode Coverage Results" MODIFIED="1614212997602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>enhanced.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/studyProject$DuckTest.ic" NAME="DuckTest Coverage Results" MODIFIED="1614237275068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>junit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/studyProject$DuckTestOnlyOneCodeAtUnitTest.ic" NAME="DuckTestOnlyOneCodeAtUnitTest Coverage Results" MODIFIED="1614237104635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>java.junit.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/studyProject$RestTest_getTest.ic" NAME="RestTest.getTest Coverage Results" MODIFIED="1611735004784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyProject$BevarageTest_decoratorTest.ic" NAME="BevarageTest.decoratorTest Coverage Results" MODIFIED="1611908922712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
