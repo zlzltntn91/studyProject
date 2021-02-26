@@ -28,8 +28,6 @@ public class Argorithm {
       max = numbers[2];
     }
     System.out.println(max);
-
-
   }
 
   @Test

@@ -13,14 +13,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="480f6b36-c2e2-4c0a-9ec0-4c8970633a34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/main/java/junit/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/junit/DuckTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/junit-spring/src/test/java/junit/caculator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitFixture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitNamingConvension.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitNamingConvensionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/UserVoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/UserVoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/enhanced/DuckTestOnlyOneCodeAtUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junit-spring/src/test/java/enhanced/DuckTestOnlyOneCodeAtUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/1.개요 및 설치.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/1.개요 및 설치.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/2.버전관리.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-git/src/main/resources/md/3.깃과브랜치.md" beforeDir="false" afterPath="$PROJECT_DIR$/basic-git/src/main/resources/md/3.깃과브랜치.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/src/test/java/Argorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/junit-spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/junitBasic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/java/junit/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/java/junit/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/junit/caculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/java/junit/caculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/kr/co/soo/junit_spring/bean/HelloBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/java/kr/co/soo/junit_spring/bean/HelloBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/java/kr/co/soo/junit_spring/controller/JunitTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/java/kr/co/soo/junit_spring/controller/JunitTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/curriculum.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/curriculum.md" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/curriculum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/hamcrest/hamcrest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/hamcrest/hamcrest.md" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/hamcrest/hamcrest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/junit/img/junitBasic.png" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/junit/img/junitBasic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/junit/junit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/junit/junit.md" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/junit/junit.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/log4j.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/log4j.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/springtest/springTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/springtest/springTest.md" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/springtest/springTest.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/unitTest/why.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/main/resources/unitTest/why.md" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/main/resources/unitTest/why.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/hamcrest/Hamcrest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/basic/hamcrest/Hamcrest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitFixture.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/basic/junit/JunitFixture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/JunitNamingConvensionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/basic/junit/JunitNamingConvensionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/junit/UserVoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/basic/junit/UserVoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/springtest/CJunitSpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/basic/springtest/CJunitSpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/basic/springtest/sub/SubJunitSpringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/basic/springtest/sub/SubJunitSpringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/enhanced/DuckTestOnlyOneCodeAtUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/junit/DuckTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/junit/DuckTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/java/junit/caculator/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/java/junit/caculator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/src/test/resources/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/src/test/resources/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/web/WEB-INF/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/junit-spring/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/junitBasic/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +305,7 @@
       </method>
     </configuration>
     <configuration name="DuckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
+      <module name="junitBasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="junit.*" />
@@ -285,7 +320,7 @@
       </method>
     </configuration>
     <configuration name="DuckTestOnlyOneCodeAtUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
+      <module name="junitBasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java.junit.*" />
@@ -301,7 +336,7 @@
       </method>
     </configuration>
     <configuration name="DuckTestOnlyOneCodeAtUnitTest.colorTypeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
+      <module name="junitBasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="enhanced.*" />
@@ -317,7 +352,7 @@
       </method>
     </configuration>
     <configuration name="DuckTest.descriptionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
+      <module name="junitBasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="junit.*" />
@@ -333,7 +368,7 @@
       </method>
     </configuration>
     <configuration name="DuckTest.privateFieldTest_color" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="junit-spring" />
+      <module name="junitBasic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="junit.*" />
@@ -670,7 +705,7 @@
       <workItem from="1613953572472" duration="23429000" />
       <workItem from="1614054621166" duration="25000" />
       <workItem from="1614067855840" duration="32959000" />
-      <workItem from="1614220762669" duration="13865000" />
+      <workItem from="1614220762669" duration="18081000" />
     </task>
     <task id="LOCAL-00001" summary="StartegyPattern">
       <created>1611715437816</created>
@@ -994,7 +1029,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614227615234</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Junit 교육자료 끄읏">
+      <created>1614239253775</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1614239253775</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1035,7 +1077,8 @@
     <MESSAGE value="Algorithm" />
     <MESSAGE value="Junit Init" />
     <MESSAGE value="Junit 교육자료" />
-    <option name="LAST_COMMIT_MESSAGE" value="Junit 교육자료" />
+    <MESSAGE value="Junit 교육자료 끄읏" />
+    <option name="LAST_COMMIT_MESSAGE" value="Junit 교육자료 끄읏" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

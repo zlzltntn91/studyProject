@@ -3,7 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ci-cd" />
-    <file type="web" url="file://$PROJECT_DIR$/junit-spring" />
+    <file type="web" url="file://$PROJECT_DIR$/junitBasic" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

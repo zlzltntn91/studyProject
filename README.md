@@ -1,11 +1,12 @@
 # StudyProject
-## GIT 21/02/01 ~ 21/02/28
+
+## GIT 21/02/01 ~ 21/03/31
 - [Do it! 지옥에서 온 문서 관리자 깃&깃허브](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=&barcode=9791163031222)
 
-## DesignPatterns 21/01/20 ~ 21/02/28
+## DesignPatterns 21/01/20 ~ 21/03/31
 - [Head first design patterns](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9788979143409)
   
-## TobySpring 21/01/01 ~ 21/06/01
+## TobySpring 21/01/01 ~ 21/07/01
 - [토비의 스프링 3.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417)
  
 ## 예정
