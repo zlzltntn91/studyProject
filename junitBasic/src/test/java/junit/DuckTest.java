@@ -30,7 +30,7 @@ public class DuckTest {
     assertThat(duck.sayMyName(), is(equalTo("hi")));
   }
 
-  @Test(expected = AssertionError.class)
+  @Test(expected = IllegalArgumentException.class)
   public void sayMyNameFailTest() {
     Duck duck = new Duck("black", "hi");
     assertThat(duck.sayMyName(), is(equalTo("")));

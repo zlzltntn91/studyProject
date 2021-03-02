@@ -3,7 +3,6 @@ package junit;
 import lombok.Getter;
 import lombok.Setter;
 
-
 public class User {
 
   @Setter

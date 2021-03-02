@@ -15,8 +15,9 @@
         <module>ci-cd</module>
         <module>basic-git</module>
         <module>uml</module>
-        <module>junit-spring</module>
+        <module>junitBasic</module>
         <module>datastructure</module>
+        <module>algorithm</module>
     </modules>
 
     <properties>

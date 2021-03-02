@@ -10,7 +10,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>junit-spring</artifactId>
+    <artifactId>junitBasic</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -59,7 +59,4 @@
         </dependency>
     </dependencies>
 
-    <build>
-
-    </build>
 </project>

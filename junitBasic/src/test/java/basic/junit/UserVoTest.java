@@ -19,7 +19,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
  * 3. 실패하는 테스트 찾기
  */
 @Slf4j
-@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class UserVoTest {
 
   User user = new User();
