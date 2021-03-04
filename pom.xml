@@ -18,6 +18,7 @@
         <module>junitBasic</module>
         <module>datastructure</module>
         <module>algorithm</module>
+        <module>effective-java</module>
     </modules>
 
     <properties>
