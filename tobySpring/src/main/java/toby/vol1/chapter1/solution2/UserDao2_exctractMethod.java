@@ -1,15 +1,15 @@
-package toby.vol1.chapter1;
+package toby.vol1.chapter1.solution2;
 
 import lombok.extern.slf4j.Slf4j;
+import toby.vol1.chapter1.User;
 
 import java.sql.*;
 
 @Slf4j
-public class UserDao3 {
+public class UserDao2_exctractMethod {
 
 	public static void main(String[] args) throws SQLException, ClassNotFoundException {
-		UserDao3 userDao = new UserDao3();
-
+		UserDao2_exctractMethod userDao = new UserDao2_exctractMethod();
 		User user = new User();
 		user.setId("kim90soo6");
 		user.setName("김은수");
@@ -29,7 +29,7 @@ public class UserDao3 {
 	 * 메서드 추출 기법을 사용하여 중복 코드를 제거했다.
 	 * 관심의 종류에 따라 코드를 구분해놓았기 때문에 Connection에 대한 변경이 일어날 경우
 	 * 관심이 집중되어있는 부분의 코드만 수정하면 된다.
-	 *
+	 * 
 	 * 다른 메서드에 영향을 주지도 않을 뿐더러, 관심 내용이 독립적으로 존재하므로 수정도 간단해짐
 	 */
 	private Connection getConnection() throws ClassNotFoundException, SQLException {
@@ -75,4 +75,3 @@ public class UserDao3 {
 	}
 
 }
-
