@@ -5,7 +5,7 @@
 
 ```commandline
 
-ssh -i /Users/soo/Documents/important/kosa-msa-keypair.pem ubuntu@ec2-15-164-214-214.ap-northeast-2.compute.amazonaws.com
+®
 sudo su
 su (Switch User) 혹은 sudo (SuperUser DO)
 ```
