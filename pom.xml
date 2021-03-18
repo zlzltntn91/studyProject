@@ -19,6 +19,7 @@
         <module>datastructure</module>
         <module>algorithm</module>
         <module>effective-java</module>
+        <module>msa</module>
     </modules>
 
     <properties>
