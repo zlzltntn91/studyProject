@@ -49,6 +49,7 @@ public class UserDao {
 		Class.forName("com.mysql.jdbc.Driver");
 		Connection con = DriverManager.getConnection("jdbc:mysql://localhost/toby?characterEncoding=UTF-8", "zlatn91", "kim90soo");
 		PreparedStatement pstmt = con.prepareStatement("select * from users where id = ?");
+
 		pstmt.setString(1, id);
 
 

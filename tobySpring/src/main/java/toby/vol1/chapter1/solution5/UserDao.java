@@ -1,8 +1,9 @@
 package toby.vol1.chapter1.solution5;
 
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import toby.vol1.chapter1.User;
-import toby.vol1.chapter1.solution4.UserDao_Composition;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -18,15 +19,15 @@ import java.sql.SQLException;
  * 인터페이스는 자신을 구현한 클래스에 대한 구체적인 정보는 모두 감춰버린다.
  */
 @Slf4j
-public class UserDao_composition_interface {
+public class UserDao {
 
 	SimpleConnectionMakerInterface connectionMaker;
 
-	public UserDao_composition_interface(SimpleConnectionMakerInterface connectionMaker) {
+	public UserDao(SimpleConnectionMakerInterface connectionMaker) {
 		this.connectionMaker = connectionMaker;
 	}
 
-	private User get(String id) throws SQLException {
+	public String get(String id) throws SQLException {
 
 		Connection con = connectionMaker.makeConnection();
 
@@ -47,13 +48,11 @@ public class UserDao_composition_interface {
 		pstmt.close();
 		con.close();
 
-		return user;
+
+
+		return user.toString();
 
 	}
 
-	public static void main(String[] args) throws SQLException {
-		UserDao_composition_interface userDao_composition = new UserDao_composition_interface(new NConnectionMaker());
-		log.info(userDao_composition.get("kim90soo6") + "");
-	}
 
 }

@@ -1,5 +1,7 @@
 package toby.vol1.chapter1.solution5;
 
+import org.springframework.stereotype.Component;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
