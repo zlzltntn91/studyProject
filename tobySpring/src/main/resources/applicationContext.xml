@@ -9,11 +9,11 @@
 <!--        <context:exclude-filter type="annotation" expression="org.springframework.stereotype.Controller"/>-->
 <!--    </context:component-scan>-->
 
-    <bean  id="xmlConnectionMaker" class="toby.vol1.chapter1.using_datasource.NConnectionMaker"/>
+<!--    <bean  id="xmlConnectionMaker" class="toby.vol1.chapter1.using_datasource.NConnectionMaker"/>-->
 
-    <bean id="userDao" class="toby.vol1.chapter1.using_datasource.UserDao">
-        <property name="connectionMaker" ref="xmlConnectionMaker"/>
-    </bean>
+<!--    <bean id="userDao" class="UserDao">-->
+<!--        <property name="connectionMaker" ref="xmlConnectionMaker"/>-->
+<!--    </bean>-->
 
-<!--    <bean id="datasource" class="SimpleDataSource"></bean>-->
+<!--    <bean id="datasource" class="javax.sql.1`"></bean>-->
 </beans>
