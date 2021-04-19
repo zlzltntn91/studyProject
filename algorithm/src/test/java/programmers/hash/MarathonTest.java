@@ -3,7 +3,11 @@ package programmers.hash;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
 
 /**
  * 문제 설명
@@ -28,13 +32,35 @@ public class MarathonTest {
 
 	@Test
 	public void solution() {
-		String[] participant = {"leo", "kiki", "eden"};
-		String[] completion = {"eden", "kiki"};
-//		Arrays.stream(participant).filter(v -> {
-//			for (String complete : completion) {
-//				return v.equals(complete);
-//			}
-//		}).forEach(System.out::println);
+
+		String[] participant = {"mislav", "stanko", "mislav", "ana"};
+		String[] completion = {"stanko", "ana", "mislav"};
+
+		Map<String, Integer> map = new HashMap<>();
+
+		for (String runner : participant) {
+			map.compute(runner, (k, v) -> v == null ? 0 : --v);
+		}
+
+		System.out.println(map);
+
+		for (String complete : completion) {
+			map.computeIfPresent(complete, (k, v) -> ++v);
+		}
+
+		System.out.println(map);
+
+		String result = map.entrySet()
+				.stream()
+				.map(v -> {
+						 if (v.getValue().intValue() == 0) {
+							 return v.getKey();
+						 }
+						 return "";
+					 }
+				).collect(Collectors.joining());
+
+		System.out.println(result);
 	}
 
 	public String solution(String[] participant, String[] completion) {
