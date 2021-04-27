@@ -13,7 +13,7 @@ public class BinarySearch {
 	@Test
 	@Ignore
 	public void shift() {
-		int i = 10; // 0101
+		int i = 10;
 		log.info(Integer.toBinaryString(i)); // 1010
 		log.info(Integer.toBinaryString(i >>> 1)); //101
 		int j = 20;
